@@ -1,0 +1,9 @@
+d:\Coding\Visual Studio\repos\ArraysExcedrsize\ArraysExcedrsize\bin\ArraysExcedrsize.dll.config
+d:\Coding\Visual Studio\repos\ArraysExcedrsize\ArraysExcedrsize\bin\ArraysExcedrsize.dll
+d:\Coding\Visual Studio\repos\ArraysExcedrsize\ArraysExcedrsize\bin\ArraysExcedrsize.pdb
+d:\Coding\Visual Studio\repos\ArraysExcedrsize\ArraysExcedrsize\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\Coding\Visual Studio\repos\ArraysExcedrsize\ArraysExcedrsize\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\Coding\Visual Studio\repos\ArraysExcedrsize\ArraysExcedrsize\obj\Debug\ArraysExcedrsize.csprojResolveAssemblyReference.cache
+d:\Coding\Visual Studio\repos\ArraysExcedrsize\ArraysExcedrsize\obj\Debug\ArraysExcedrsize.csproj.CoreCompileInputs.cache
+d:\Coding\Visual Studio\repos\ArraysExcedrsize\ArraysExcedrsize\obj\Debug\ArraysExcedrsize.dll
+d:\Coding\Visual Studio\repos\ArraysExcedrsize\ArraysExcedrsize\obj\Debug\ArraysExcedrsize.pdb
