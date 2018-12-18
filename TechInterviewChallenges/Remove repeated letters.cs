@@ -17,36 +17,31 @@ namespace Remove_repeated_letters
 
             //Save string in variable.
             string str = Console.ReadLine();
-            //Strings are immutable, therefore we make a copy of the original string to work with.
            
+            //Loop through the string to find repeating letters.
             for (int i = 0; i < str.Length;)
             {
+                //Ignore uppercase/lowercase
                 RegexOptions options = RegexOptions.IgnoreCase;
+                
+                //Save the character to be searched for in a variable
                 Regex reg = new Regex(str[i].ToString(), options);
+                
+                //Count how many times it occurs in the string.
                 int CharCount = reg.Matches(str).Count;
 
+                //If it occurs more than once, remove the first instance.
                 if ( CharCount > 1)
                 {
                     str = str.Remove(i, 1);
                 }
+                //If it occurs only once, go on to the next character.
                 else ++i;
             }
-
+            
+            //Print the modified string.
             Console.WriteLine(str);
             Console.ReadKey();
         }
-
-        public static bool repeatChar(char character, string remainingString)
-        {
-            if (remainingString.Contains(character))
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
-        }
-
         }
     }
